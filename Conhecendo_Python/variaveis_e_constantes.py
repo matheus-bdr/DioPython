@@ -13,6 +13,6 @@ DEBUG = True
 STATES = [
     'SP',
     'RJ',
-    'MG',
+    'MG'
 ]
 AMONT = 30.2
